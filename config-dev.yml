@@ -1,3 +1,2 @@
-server:
-  port: 8001
-  echo: dev
+config:
+  info: main dev config-dev.yml
